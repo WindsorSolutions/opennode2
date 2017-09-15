@@ -29,9 +29,9 @@ OpenNode2 as well as implementation guides for all of the available plugins.
 This is the first place to start if you're setting up a new installation,
 implementing a new plugin or updating an existing flow.
 
-* [Documentation for .Net]({{ site.github.repository_url }}/blob/master/docs/customer-docs/dotnet)
-* [Documentation for Java]({{ site.github.repository_url }}/blob/master/docs/customer-docs/java)
-* [Documentation Common to Both]({{ site.github.repository_url }}/blob/master/docs/customer-docs/common)
+* [Documentation for .Net](https://github.com/WindsorSolutions/opennode2/blob/master/docs/customer-docs/dotnet)
+* [Documentation for Java](https://github.com/WindsorSolutions/opennode2/blob/master/docs/customer-docs/java)
+* [Documentation Common to Both](https://github.com/WindsorSolutions/opennode2/blob/master/docs/customer-docs/common)
 
 ## Who Maintains this Project?
 
@@ -39,7 +39,7 @@ OpenNode2 is maintained by [Windsor Solutions](http://www.windsorsolutions.com/)
 on behalf of
 the [Environmental Council of the States (ECOS)](https://www.ecos.org/). This is
 an open source project and is licensed under [a BSD License (3
-clause)]({{ site.github.repository_url }}/blob/master/LICENSE.md).
+clause)](https://github.com/WindsorSolutions/opennode2/blob/master/LICENSE.md).
 
 If you have any questions, please do not hesitate to
 contact [Bill Rensmith](mailto:bill_rensmith@windsorsolutions.com):
