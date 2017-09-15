@@ -29,9 +29,9 @@ OpenNode2 as well as implementation guides for all of the available plugins.
 This is the first place to start if you're setting up a new installation,
 implementing a new plugin or updating an existing flow.
 
-* [Documentation for .Net](https://github.com/WindsorSolutions/opennode2/blob/master/docs/customer-docs/dotnet)
-* [Documentation for Java](https://github.com/WindsorSolutions/opennode2/blob/master/docs/customer-docs/java)
-* [Documentation Common to Both](https://github.com/WindsorSolutions/opennode2/blob/master/docs/customer-docs/common)
+* [Documentation for .Net](https://github.com/WindsorSolutions/opennode2/blob/master/customer-docs/dotnet)
+* [Documentation for Java](https://github.com/WindsorSolutions/opennode2/blob/master/customer-docs/java)
+* [Documentation Common to Both](https://github.com/WindsorSolutions/opennode2/blob/master/customer-docs/common)
 
 ## Who Maintains this Project?
 
