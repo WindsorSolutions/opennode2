@@ -317,10 +317,14 @@ a:hover { text-decoration: underline; }
 
 .site-footer-credits { color: #819198; }
 
-.page-header { background-color: #416C42; background-image: none; color: #fcfcfc; }
+.page-header { background-color: #5393c1; background-image: url("/assets/images/jason-blackeye-295313.jpg"); background-size: cover; color: white; text-shadow: 1px 1px 2px #adadad; }
 
-.project-tagline { color: #fcfcfc; }
+.project-tagline { color: #294559; font-weight: bold; text-shadow: 1px 1px 2px #adadad; }
 
-a { color: #418e49; }
+a { color: #0065ad; }
 
-h2 { color: #2a2a2a; }
+h2 { color: #294559 !important; }
+
+.btn { background-color: rgba(255, 255, 255, 0.4); color: #294559; border-color: #4d82a8; text-shadow: 1px 1px 2px #adadad; }
+
+.btn:hover { border-color: #4d82a8; color: #294559; background-color: rgba(255, 255, 255, 0.6); }
