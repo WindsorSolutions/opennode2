@@ -317,7 +317,7 @@ a:hover { text-decoration: underline; }
 
 .site-footer-credits { color: #819198; }
 
-.page-header { background-color: #5393c1; background-image: url("/assets/images/jason-blackeye-295313.jpg"); background-size: cover; color: white; text-shadow: 1px 1px 2px #adadad; }
+.page-header { background-color: #5393c1; background-image: url("../images/jason-blackeye-295313.jpg"); background-size: cover; color: white; text-shadow: 1px 1px 2px #adadad; }
 
 .project-tagline { color: #294559; font-weight: bold; text-shadow: 1px 1px 2px #adadad; }
 
