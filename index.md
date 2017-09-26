@@ -24,7 +24,7 @@ signficantly updated or an entirely new plugin is added to the project.
 
 ## Download Documentation
 
-We have put together an impressive about of documentation for both versions of
+We have put together an impressive amout of documentation for both versions of
 OpenNode2 as well as implementation guides for all of the available plugins.
 This is the first place to start if you're setting up a new installation,
 implementing a new plugin or updating an existing flow.
