@@ -41,8 +41,8 @@ the [Environmental Council of the States (ECOS)](https://www.ecos.org/). This is
 an open source project and is licensed under [a BSD License (3
 clause)](https://github.com/WindsorSolutions/opennode2/blob/master/LICENSE.md).
 
-If you have any questions, you may
-contact us at  [OpenNode2](mailto:opennode2@windsorsolutions.com):
+For questions or support, contact us
+at [OpenNode2](mailto:opennode2@windsorsolutions.com):
 
 * email: [OpenNode2@windsorsolutions.com](mailto:opennode2@windsorsolutions.com)
 * phone: [(503) 675-7833](tel:(503) 675-7833)
