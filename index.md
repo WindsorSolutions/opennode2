@@ -5,10 +5,11 @@
 layout: home
 ---
 
-OpenNode2 (ON2) is the free, tried-and-true choice for your next generation
-Exchange Network Node. It is used at over 30 agencies of all sizes and is the
-trusted choice for automating data exchange either state-to-state or with the
-[EPA's Central Data Exchange (CDX)](https://cdx.epa.gov/). OpenNode2 comes
+OpenNode2 (ON2) is the free, tried-and-true choice for your next
+generation [Exchange Network Node](http://exchangenetwork.net/). It is used at
+over 30 agencies of all sizes and is the trusted choice for automating data
+exchange either state-to-state or with
+the [EPA's Central Data Exchange (CDX)](https://cdx.epa.gov/). OpenNode2 comes
 pre-packaged with a variety of plugins for the commons data flows. It is
 available for deployment in either a .Net or Java environment.
 
