@@ -19,7 +19,7 @@ More information can be found on the
 ## Subscribe to Our Newsletter
 
 Are you interested in keeping up-to-date on all of OpenNode2 news? [Subscribe to
-our low-traffic informational mailing list!](https://sourceforge.net/p/opennode2/newsletter/?source=navbar)
+our low-traffic informational mailing list!](http://windsorsolutions.us5.list-manage.com/subscribe?u=d3cd0d4084d6cdc35e52aaba6&id=6bf1c39340)
 Typically, we'll post whenever we have a new releaser, a plugin has been
 signficantly updated or an entirely new plugin is added to the project.
 
