@@ -13,9 +13,6 @@ the [EPA's Central Data Exchange (CDX)](https://cdx.epa.gov/). OpenNode2 comes
 pre-packaged with a variety of plugins for the commons data flows. It is
 available for deployment in either a .Net or Java environment.
 
-More information can be found on the
-[Windsor Solutions OpenNode2 page](http://www.windsorsolutions.com/Products/OpenNode2).
-
 ## Subscribe to Our Newsletter
 
 Are you interested in keeping up-to-date on all of OpenNode2 news? [Subscribe to
