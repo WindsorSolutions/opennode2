@@ -43,5 +43,4 @@ For questions or support, contact us
 at [OpenNode2](mailto:opennode2@windsorsolutions.com):
 
 * email: [OpenNode2@windsorsolutions.com](mailto:opennode2@windsorsolutions.com)
-* phone: [(503) 675-7833](tel:(503) 675-7833)
   
